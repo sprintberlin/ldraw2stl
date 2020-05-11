@@ -1,0 +1,1 @@
+perl bin/dat2stl --file ./ldrawlib/parts/3894.dat --ldrawdir ./ldrawlib --scale 1 > ./stl/3894.stl
